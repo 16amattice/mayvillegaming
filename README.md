@@ -6,3 +6,5 @@ CHANGELOG
 
 
 10/11/18 - Version 0.1 Uploaded. Repository created. Roadmap- Upload 10 more games. Update design. Auto Updates?
+
+10/12/18 - Version 0.2 Uploaded. Uploaded 6 More Games. Roadmap- Fix coop in BTD5. Upload More Games. Including- Bad Time Simulator!
