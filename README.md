@@ -18,3 +18,5 @@ CHANGELOG
 10/12/18 - Version 0.2 Uploaded. Uploaded 6 More Games. Roadmap- Fix coop in BTD5. Upload More Games. Including- Bad Time Simulator!
 
 10/13/18 - Version 0.2.1 Uploaded. Changed file system and updated READ.ME
+
+10/15/18 - Version 0.2.2 Uploaded. Added 6 New Games.
